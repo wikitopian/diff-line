@@ -1,0 +1,22 @@
+{
+  "name": "diff-line",
+  "version": "1.0.0",
+  "description": "get a json of line-level differences and apply that json to create merged result",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wikitopian/diff-line.git"
+  },
+  "keywords": [
+    "diff"
+  ],
+  "author": "@wikitopian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wikitopian/diff-line/issues"
+  },
+  "homepage": "https://github.com/wikitopian/diff-line#readme"
+}
